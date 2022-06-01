@@ -1,0 +1,3 @@
+[submodule "self-hosted"]
+	path = self-hosted
+	url = git@github.com:getsentry/self-hosted.git
